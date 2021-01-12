@@ -98,4 +98,4 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '/', text: 'Home' }
-  - { url: '/contact', text: 'Contact' }
+  - { url: '/contact.html', text: 'Contact' }
