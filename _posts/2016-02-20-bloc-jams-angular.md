@@ -10,5 +10,5 @@ project_link: 'thoughtbubble.herokuapp.com'
 button_icon: 'github'
 button_text: 'Visit Project'
 lead_text: 'Used HTML/CSS to create a website that generates 
-        various jokes depending on the kind of joke the user chooses
+        various jokes depending on the kind of joke the user chooses'
 ---
