@@ -18,9 +18,8 @@ email: 'ginakchun@gmail.com'
 description: "I am a Korean-American female developer in the New York and Boston area."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://ginchu.github.io" # the base hostname & protocol for your site, e.g. https://example.com
-twitter_username: 'jamigibbs'
 github_username: 'ginchu'
-medium_username: 'blog.jamigibbs.com'
+linkedin_username: 'gina-chun'
 
 # Build settings
 markdown: kramdown
@@ -98,4 +97,3 @@ enable_contact: false
 enable_nav: true
 nav_item:
   - { url: '', text: 'Home' }
-  - { url: 'contact.html', text: 'Contact' }
