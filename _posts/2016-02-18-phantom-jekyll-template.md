@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Phantom'
+title: 'Mother Nature Bot (@motherearthbot)'
 date: 2016-02-20 21:15:00
-categories: development design
-tags: Jekyll Sass Bootstrap
+categories: Personal Project
+tags: Tweepy Python Twitter
 featured_image: '/img/posts/04_phantom-jekyll-1130x864-2x.png'
-project_link: 'https://github.com/jamigibbs'
+project_link: 'https://twitter.com/motherearthbot'
 button_icon: 'flask'
 button_text: 'Visit Project'
-lead_text: "A minimalist Jekyll theme that you're looking at it right now"
+lead_text: "Used Python(Tweepy) to build a twitter bot that searches specific hashtags about nature and the environment and retweeted the most popular tweets"
 ---
