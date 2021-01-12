@@ -1,13 +1,17 @@
 ---
 layout: inner
 position: left
-title: 'Weathercast'
+title: 'Rebalancing the Music Canon'
 date: 2016-02-20 15:56:00
-categories: development
-tags: JavaScript AngularJS API Sass
+categories: Boston College
+tags: XML PDF
 featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
-project_link: 'http://github.com/jamigibbs/weathercast'
+project_link: 'https://bcdigschol.github.io/rebalancing-music-canon/'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: 'A simple weather forecast app for your favorite city.'
+lead_text: 'Extracted data from music scores (PDF) using optical music recognition (OMR) tools
+<br><br>
+Digitalized and encoded (XML) music pieces of underrepresented people
+<br><br>
+Aim to influence data-driven music research to be more diverse and inclusive'
 ---
