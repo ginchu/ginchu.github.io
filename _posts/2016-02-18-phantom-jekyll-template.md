@@ -7,7 +7,7 @@ categories: Personal Project
 tags: Tweepy Python Twitter
 featured_image: '/img/posts/04_phantom-jekyll-1130x864-2x.png'
 project_link: 'https://twitter.com/motherearthbot'
-button_icon: 'flask'
+button_icon: 'twitter'
 button_text: 'Visit Project'
 lead_text: "Used Python(Tweepy) to build a twitter bot that searches specific hashtags about nature and the environment and retweeted the most popular tweets"
 ---

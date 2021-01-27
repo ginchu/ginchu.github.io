@@ -7,7 +7,7 @@ categories: Boston College
 tags: XML PDF
 featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
 project_link: 'https://bcdigschol.github.io/rebalancing-music-canon/'
-button_icon: 'github'
+button_icon: 'file-audio'
 button_text: 'Visit Project'
 lead_text: 'Extracted data from music scores (PDF) using optical music recognition (OMR) tools
 <br><br>
