@@ -5,7 +5,7 @@ title: 'Mother Nature Bot (@motherearthbot)'
 date: 2016-02-20 21:15:00
 categories: Personal Project
 tags: Tweepy Python Twitter
-featured_image: '/img/posts/04_phantom-jekyll-1130x864-2x.png'
+featured_image: '/img/posts/mothernature.png'
 project_link: 'https://twitter.com/motherearthbot'
 button_icon: 'twitter'
 button_text: 'Visit Project'

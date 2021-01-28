@@ -5,7 +5,7 @@ title: 'Rebalancing the Music Canon'
 date: 2016-02-20 15:56:00
 categories: Boston College
 tags: XML PDF
-featured_image: '/img/posts/02_weathercast-1130x864-2x.png'
+featured_image: '/img/posts/finale.png'
 project_link: 'https://bcdigschol.github.io/rebalancing-music-canon/'
 button_icon: 'file-audio-o'
 button_text: 'Visit Project'
